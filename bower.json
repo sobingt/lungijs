@@ -1,0 +1,21 @@
+{
+  "name": "static-gulp-jade",
+  "description": "Static sites with Jade, Scss and Gulp.js",
+  "main": "gulp.js",
+  "authors": [
+    "Cosmin Anca"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.4",
+    "font-awesome": "^4.6.3"
+  }
+}
